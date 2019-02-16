@@ -11,7 +11,7 @@
 
 ![travis](https://travis-ci.com/sarkis74/lab-02-401n12)
 
-![back-end](https://seattle-401n12-lab-01.herokuapp.com/)
+![back-end](https://lab-02-401n12.herokuapp.com/)
 
 
 **Modules**
