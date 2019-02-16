@@ -1,0 +1,22 @@
+{
+  "name": "lab-02-401n12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarkis74/lab-02-401n12.git"
+  },
+  "author": "Sarkis Aghazarian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarkis74/lab-02-401n12/issues"
+  },
+  "homepage": "https://github.com/sarkis74/lab-02-401n12#readme",
+  "dependencies": {
+    "jest": "^24.1.0"
+  }
+}
