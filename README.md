@@ -16,25 +16,42 @@
 
 **Modules**
 
-**airplane-class.js
-airplane-factory.js
-car-class.js
-car-factory.js
-fish-class.js
-fish-factory.js
-flying-vehicle-constructor.js
-helicopter-class.js
-helicopter-factory.js
-index.js
-lobster-class.js
-lobster-factory.js
-motorcycle-class.js
-motorcycle-factory.js
-sea-creature-constructor.js
-vehicle-class.js
-vehicle-constructor.js
-vehicle-factory.js**
+**airplane-class.js**
+
+**airplane-factory.js**
+
+**car-class.js**
+
+**car-factory.js**
+
+**fish-class.js**
+
+**fish-factory.js**
+
+**flying-vehicle-constructor.js**
+
+**helicopter-class.js**
+
+**helicopter-factory.js**
+
+**index.js**
+
+**lobster-class.js**
+
+**lobster-factory.js**
+
+**motorcycle-class.js**
+
+**motorcycle-factory.js**
+
+**sea-creature-constructor.js**
+
+**vehicle-class.js**
+
+**vehicle-constructor.js**
+
+**vehicle-factory.js**
 
 **Exported Values and Methods**
 
-`greet() -> string`
+`All Class Properties and Functions`
