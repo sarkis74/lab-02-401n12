@@ -1,4 +1,4 @@
-![CF](https://i.imgur.com/y3oU0eJ.png)
+![CF](https://i.imgur.com/60omTQF.png)
 
 # lab-02-401n12
 
