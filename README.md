@@ -1,5 +1,7 @@
 ![CF](https://i.imgur.com/60omTQF.png)
 
+[![Build Status](https://travis-ci.org/sarkis74/lab-02-401n12.svg?branch=master)](https://travis-ci.org/sarkis74/lab-02-401n12)
+
 # lab-02-401n12
 
 **Author: Sarkis Aghazarian**
@@ -8,8 +10,6 @@
 
 
 ![repo](https://github.com/sarkis74/lab-02-401n12)
-
-![travis](https://travis-ci.com/sarkis74/lab-02-401n12)
 
 ![back-end](https://lab-02-401n12.herokuapp.com/)
 
